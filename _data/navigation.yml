@@ -25,8 +25,11 @@ main:
     
   #- title: "CV"
   #  url: /cv/     #pages/cv.md.... can put /files/123.pdf
-  - title: "CV"
-    url: /files/J.A.D. Ranasinghe_CV.pdf
+  #- title: "CV"
+  #  url: /files/J.A.D. Ranasinghe_CV.pdf
+
+  - title : "CV"
+    url: "https://drive.google.com/drive/folders/1s4o2sDcWiporHDhmvze3mwQEuZD4TrJJs"
 
   # - title: "CV"
   #   url: /cv-json/
