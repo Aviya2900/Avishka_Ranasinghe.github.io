@@ -9,7 +9,7 @@ location: "Peradeniya, Sri Lanka"
 image: "J.A.D.png"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Actively engage in tutoring classes under the modules Optimization, Linear Algebra, Calculus, and Probability & Statistics.
 
 <!-- # Heading 1
 

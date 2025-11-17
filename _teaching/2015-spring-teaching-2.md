@@ -9,13 +9,13 @@ location: "Peradeniya, Sri Lanka"
 image: "J.A.D.png"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+working as an Active Research Assistant | Direct supervision under Prof. Roshan Godaliyadda
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->

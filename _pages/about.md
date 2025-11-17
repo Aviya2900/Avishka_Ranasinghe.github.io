@@ -16,7 +16,7 @@ Avishka is affiliated with MARC, a research group known for producing scholars w
 As a Teaching Assistant, he tutors Optimization, Linear Algebra, Calculus, and Probability & Statistics, further strengthening his mathematical grounding and mentorship skills. 
 
 Key-Research Interests
-======
+------
 
 - Implicit Neural Representations (INRs)
 - Hypergraph Neural Networks & Topological Learning
