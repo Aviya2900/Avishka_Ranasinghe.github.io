@@ -12,13 +12,13 @@ main:
     url: /teaching/   
 
   - title: "Research Work"
-    url: /research/ 
+    url: /talks/ 
 
   - title: "Publications"
     url: /publications/   
     
   - title: "Education"
-    url: /education/     #in /portfolio
+    url: /portfolio/     #in /portfolio
         
   - title: "Experience"
     url: /volunteering/
