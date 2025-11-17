@@ -11,11 +11,11 @@ main:
   - title: "Current Affliation"
     url: /teaching/   
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Research Work"
-    url: /research/    
+    url: /research/ 
+
+  - title: "Publications"
+    url: /publications/   
     
   - title: "Education"
     url: /education/     #in /portfolio

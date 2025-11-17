@@ -3,8 +3,8 @@ title: "PoseView3D: Dynamic Multi-View Angular Encoding for Skeleton-Based Actio
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Our CV paper - testing'
-date: 2024-02-17
+excerpt: ''
+date: 2025-11-07
 venue: 'IEEE Xplore'
 paperurl: 'https://ieeexplore.ieee.org/document/11217084'
 citation: 'A. Ranasinghe et al., "PoseView3D: Dynamic Multi-View Angular Encoding for Skeleton-Based Action Recognition," 2025 Moratuwa Engineering Research Conference (MERCon), Moratuwa, Sri Lanka, 2025, pp. 563-568, doi: 10.1109/MERCon67903.2025.11217084'
