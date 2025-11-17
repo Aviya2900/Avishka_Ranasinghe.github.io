@@ -4,7 +4,7 @@ collection: teaching
 type: "Department of Engineering Mathematics"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Peradeniya"
-date: 2014-present
+date: 2025-11-07
 location: "Peradeniya, Sri Lanka"
 avatar: "J.A.D.png"
 ---
