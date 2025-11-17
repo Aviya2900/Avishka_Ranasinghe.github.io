@@ -9,7 +9,7 @@ location: "Peradeniya, Sri Lanka"
 image: "J.A.D.png"
 ---
 
-working as an Active Research Assistant | Direct supervision under Prof. Roshan Godaliyadda
+working as an Active Research Assistant, Direct supervision under Prof. Roshan Godaliyadda
 
 <!-- Heading 1
 ======

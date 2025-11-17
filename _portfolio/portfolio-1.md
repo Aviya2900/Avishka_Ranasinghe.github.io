@@ -1,5 +1,5 @@
 ---
-# title: "Bachelor of the Science of Engineering Honours (B. Sc. Engineering)"
+title: ""
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
