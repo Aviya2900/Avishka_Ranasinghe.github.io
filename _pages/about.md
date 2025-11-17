@@ -7,8 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-This is your Uthpi!!!
+Avishka Ranasinghe graduated with First Class Honours in BSc Electrical & Electronic Engineering from the University of Peradeniya in 2024 and has since been serving as a Teaching Assistant in the Department of Engineering Mathematics and a Volunteer Researcher at the Multi-disciplinary AI Research Center (MARC). His primary research interests span Deep Learning, Signal Processing, and Representation Learning, with a strong emphasis on the mathematical foundations of neural networks across diverse architectures, including GCNs, Hyper-GCNs, Transformers, and ResNet-based models. He remains open to new research opportunities that broaden his perspectives and expand his scientific horizons.
 
+His current work spans two core research domains: skeleton-based action recognition and Implicit Neural Representations (INRs). He is particularly interested in spectral characteristics, topological structures, and continuous function modeling within neural networks. His contributions include developing hypergraph-based models for spatiotemporal understanding, exploring INR-based continuous representations, and working on diffusion-driven image generation and restoration pipelines for cultural heritage applications.
+
+Avishka is affiliated with MARC, a research group known for producing scholars who advance into highly competitive PhD programs in the United States. He is also part of HeritageAI, an INR + diffusion-based initiative for archival image reconstruction and colourization, which received an NVIDIA A100 GPU compute grant (~80,000 GPU hours). He also guides and oversees junior researchers joining MARC, helping them build strong foundations in deep learning and research methodology.
+
+As a Teaching Assistant, he tutors Optimization, Linear Algebra, Calculus, and Probability & Statistics, further strengthening his mathematical grounding and mentorship skills. 
+
+Key-Research Interests
+======
+
+- Implicit Neural Representations (INRs)
+- Hypergraph Neural Networks & Topological Learning
+- Skeleton-Based Action Recognition
+- Deep Learning Theory
+- Signal Processing for AI
+- Transformers & Attention Mechanisms
+- Optimization for Neural Networks
+
+<!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -55,4 +73,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
