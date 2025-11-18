@@ -6,7 +6,7 @@ permalink: /voulnteering/jobs
 ---
 
 ## TA - Department of Mathematics
-**Type:** NVIDIA-Granted Project  
+<!-- **Type:** NVIDIA-Granted Project  
 **Grant:** ~80,000 GPU-hours on NVIDIA A100 Compute Units  
 **Duration:** Aug 2025 – Present  
 
@@ -14,11 +14,11 @@ permalink: /voulnteering/jobs
 I am the genius
 
 ### Contributions  
-Did many work
+Did many work -->
 ---
 
 ## MIDAS
-**Type:** NVIDIA-Granted Project  
+<!-- **Type:** NVIDIA-Granted Project  
 **Grant:** ~80,000 GPU-hours on NVIDIA A100 Compute Units  
 **Duration:** Aug 2025 – Present  
 
@@ -26,11 +26,11 @@ Did many work
 I am the genius
 
 ### Contributions  
-Did many work
+Did many work -->
 ---
 
 ## Amithi Power Consultants
-**Type:** NVIDIA-Granted Project  
+<!-- **Type:** NVIDIA-Granted Project  
 **Grant:** ~80,000 GPU-hours on NVIDIA A100 Compute Units  
 **Duration:** Aug 2025 – Present  
 
@@ -38,6 +38,6 @@ Did many work
 I am the genius
 
 ### Contributions  
-Did many work
+Did many work -->
 ---
 

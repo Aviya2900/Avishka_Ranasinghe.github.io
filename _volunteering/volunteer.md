@@ -6,7 +6,7 @@ permalink: /voulnteering/volunteer
 ---
 
 ## Chairperson - IET OnCampus UOP 
-**Type:** NVIDIA-Granted Project  
+<!-- **Type:** NVIDIA-Granted Project  
 **Grant:** ~80,000 GPU-hours on NVIDIA A100 Compute Units  
 **Duration:** Aug 2025 – Present  
 
@@ -14,11 +14,11 @@ permalink: /voulnteering/volunteer
 I am the genius
 
 ### Contributions  
-Did many work
+Did many work -->
 ---
 
 ## Rotaract Club Of University of Peradeniya 
-**Type:** NVIDIA-Granted Project  
+<!-- **Type:** NVIDIA-Granted Project  
 **Grant:** ~80,000 GPU-hours on NVIDIA A100 Compute Units  
 **Duration:** Aug 2025 – Present  
 
@@ -26,5 +26,5 @@ Did many work
 I am the genius
 
 ### Contributions  
-Did many work
+Did many work -->
 ---
