@@ -46,17 +46,27 @@ author_profile: true
 }
 
 
-{% for post in site.portfolio %}
+{% for post in site.portfolio reversed %}
   
     
       {{ post.title }}
-      {{ post.content }}
-    
-    {% if post.image1 and post.image2 %}
-    
       
-      
+      {% if post.content %}
+        
+          {{ post.content }}
+        
+      {% endif %}
     
+    
+    {% if post.image %}
+      
+        {% assign images = post.image | split: "," %}
+        {% for img in images %}
+          
+        {% endfor %}
+      
     {% endif %}
+  
+  
   
 {% endfor %}
