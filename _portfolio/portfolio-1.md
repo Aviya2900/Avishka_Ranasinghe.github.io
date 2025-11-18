@@ -1,6 +1,7 @@
 ---
 title: "Bachelor of the Science of Engineering Honours (B.Sc. Engineering)"
 expert: "Electrical and Electronic Engineering - First Class Honours"
+permalink: /portfolio/portfolio-1
 collection: portfolio
 image: "bio-photo.jpg, bio-photo-2.jpg"
 ---
