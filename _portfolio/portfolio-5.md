@@ -1,10 +1,11 @@
 ---
 title: "Honors & Awards"
 expert: ""
-permalink: /portfolio/Awards
+permalink: /portfolio/portfolio-5
 collection: portfolio
-image: "bio-photo.jpg, bio-photo-2.jpg"
+image: ""
 ---
+## **Awards**
 
 ### **Eng. E. W. Karunaratna Award – 2023/2024**  
 - **Nominee for Best Undergraduate Project in Electrical Engineering**  
@@ -19,5 +20,6 @@ image: "bio-photo.jpg, bio-photo-2.jpg"
   — IEEE IES Chapter, SLTC, 2021  
 - **Robotrix** – Line Following Robot Competition *(Webots Simulation)*  
   — IEEE RAS Student Branch, University of Peradeniya, 2021
-  **[Certificates](https://drive.google.com/file/d/1dpE6lj4p9yeN1fcSm2nWrU81Uen7EdU4/view?usp=sharing)**
+  
+- **[Certificates](https://drive.google.com/file/d/1dpE6lj4p9yeN1fcSm2nWrU81Uen7EdU4/view?usp=sharing)**
 

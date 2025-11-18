@@ -1,9 +1,9 @@
 ---
 title: "IELTS"
 expert: ""
-permalink: /portfolio/IELTS
+permalink: /portfolio/portfolio-4
 collection: portfolio
-image: "bio-photo.jpg, bio-photo-2.jpg"
+image: ""
 ---
 
 

@@ -12,8 +12,8 @@ author_profile: true
     <h2 itemprop="headline">{{ post.title }}</h2>
     
     {% if post.expert %}
-      <p style="color: black;">
-        <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> 
+      <p style="color: black; margin: 10px 0;">
+        <strong>Expert:</strong> {{ post.expert }}
       </p>
     {% endif %}
     
